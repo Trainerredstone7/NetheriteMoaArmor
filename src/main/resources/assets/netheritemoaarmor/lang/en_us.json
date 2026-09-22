@@ -1,0 +1,13 @@
+{
+  "itemGroup.netheritemoaarmor": "Example Mod Tab",
+  "block.netheritemoaarmor.example_block": "Example Block",
+  "item.netheritemoaarmor.example_item": "Example Item",
+
+  "netheritemoaarmor.configuration.title": "Netherite Moa Armor Configs",
+  "netheritemoaarmor.configuration.section.netheritemoaarmor.common.toml": "Netherite Moa Armor Configs",
+  "netheritemoaarmor.configuration.section.netheritemoaarmor.common.toml.title": "Netherite Moa Armor Configs",
+  "netheritemoaarmor.configuration.items": "Item List",
+  "netheritemoaarmor.configuration.logDirtBlock": "Log Dirt Block",
+  "netheritemoaarmor.configuration.magicNumberIntroduction": "Magic Number Text",
+  "netheritemoaarmor.configuration.magicNumber": "Magic Number"
+}
