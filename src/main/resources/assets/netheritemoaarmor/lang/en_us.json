@@ -1,7 +1,5 @@
 {
-  "itemGroup.netheritemoaarmor": "Example Mod Tab",
-  "block.netheritemoaarmor.example_block": "Example Block",
-  "item.netheritemoaarmor.example_item": "Example Item",
+  "item.netheritemoaarmor.netherite_moa_armor": "Netherite Moa Armor",
 
   "netheritemoaarmor.configuration.title": "Netherite Moa Armor Configs",
   "netheritemoaarmor.configuration.section.netheritemoaarmor.common.toml": "Netherite Moa Armor Configs",
